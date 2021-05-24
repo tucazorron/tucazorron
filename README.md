@@ -1,15 +1,11 @@
-# Hello Human! Everything alright? 👋🏻
+# ✋ Hello Human! Everything alright?
 
-Welcome to my GitHub. Here you will find my personal and academic projects. Have fun digging! ⛏️
+## Welcome to my GitHub. Here you will find my personal and academic projects. Have fun digging! ⛏️
 
-Currently working on:
-- Ruby on Rails
-- React JS
-- Python
-- C/C++
+🔧 Working as Backend Developer with Java Spring Boot and Ruby on Rails
 
-Currently learning:
-- Artificial Intelligence
-- React Native
-- Java Spring Boot
-- Oracle DB
+🤖 Learning more about Artificial Intelligence with Python
+
+👜 Have experience with C, C++, Python, Ruby on Rails
+
+🎵 In love with programming and music!
