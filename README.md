@@ -1,8 +1,8 @@
 # ✋ Hello Human! Everything alright?
 
-## Welcome to my GitHub. Here you will find my personal and academic projects. 
+## 🗺️ Welcome to my GitHub. Here you will find my personal and academic projects. 
 
-## Have fun digging! ⛏️
+## ⛏️ Have fun digging!
 
 🔧 Working as Backend Developer with Java Spring Boot and Ruby on Rails
 
