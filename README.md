@@ -6,7 +6,7 @@
 
 🔧 Working as Backend Developer with Java Spring Boot and Ruby on Rails
 
-🤖 Learning more about Artificial Intelligence with Python
+🤖 Learning more about Artificial Intelligence with Python and Jupyter Notebook
 
 👜 Have experience with C, C++, Python, Ruby on Rails
 
