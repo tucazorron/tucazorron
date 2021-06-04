@@ -8,6 +8,6 @@
 
 🤖 Learning more about Artificial Intelligence with Python and Jupyter Notebook
 
-👜 Have experience with C, C++, Python, Ruby on Rails
+👜 Have experience with C, C++, Python, Ruby on Rails, React JS
 
 🎵 In love with programming and music!
