@@ -1,6 +1,6 @@
 # Hello there, I'm Artur Zorron! 🌻
 
-- 🔭 I’m currently working at [QuintoAndar](https://github.com/quintoandar).
+- 🔭 I’m currently working at [Quinto Andar](https://github.com/quintoandar).
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on Code Interviews.
 - 💬 Ask me about Python.
