@@ -2,11 +2,11 @@
 
 ### Job:
 
-Software Engineer Intern @ [QuintoAndar](https://github.com/quintoandar)
+Software Engineer Intern @ [QuintoAndar](https://www.quintoandar.com.br)
 
 ### Degree:
 
-Undergraduated Computer Scientist @ [UnB](https://www.unb.br/)
+Undergraduated Computer Scientist @ [UnB](https://www.unb.br)
 
 ### Contact:
 
