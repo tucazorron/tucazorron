@@ -2,7 +2,7 @@
 
 ### Job:
 
-Software Engineer Intern @ [Quinto Andar](https://github.com/quintoandar)
+Software Engineer Intern @ [QuintoAndar](https://github.com/quintoandar)
 
 ### Degree:
 
