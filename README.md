@@ -1,6 +1,6 @@
 # Hey you! Welcome to my GitHub.
 
-#### Job: Software Engineer | [QuintoAndar](https://www.quintoandar.com.br)
+#### Job: Software Engineer | [Pick N GO!](https://pickngo.com.br)
 
 #### Degree: Computer Science Bachelor's Degree | [UnB](https://www.unb.br)
 
