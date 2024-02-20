@@ -1,9 +1,5 @@
 # Hey you! 🖐️ Welcome to my GitHub.
 
-⚒️ **Job:**
-
-Backend Engineer | SideUp
-
 🗞️ **Degree:**
 
 Computer Science Bachelor's Degree | [UnB](https://www.unb.br)
