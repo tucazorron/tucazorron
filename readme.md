@@ -1,8 +1,10 @@
-# Hey you! 👍
+# Hey you! ✨
 
 I'm Artur Zorron, a brazilian software engineer. Welcome to my GitHub.
 
-🎓 **Degree:** Computer Science Bachelor's Degree | [UnB](https://www.unb.br)
+### 🎓 Education
+
+Computer Science Bachelor's Degree | [UnB](https://www.unb.br)
 
 <details>
   <summary>
@@ -18,5 +20,10 @@ I'm Artur Zorron, a brazilian software engineer. Welcome to my GitHub.
   <summary>
     🎖️ Holopin Badges
   </summary>
-  <img height="180em" src="https://holopin.io/api/user/board?user=tucazorron"
+  <img height="180em" src="https://holopin.io/api/user/board?user=tucazorron">
 </details>
+
+### 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tucazorron-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tucazorron)
+[![Email](https://img.shields.io/badge/Email-tucazorron@gmail.com-red?style=flat&logo=gmail)](mailto:tucazorron@gmail.com)
